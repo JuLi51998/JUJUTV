@@ -5,7 +5,7 @@ import { RouterModule } from '@angular/router';
 import { EpisodeListComponent } from './../episodes/episode-list/episode-list.component';
 import { EpisodeDetailsComponent } from './../episodes/episode-details/episode-details.component';
 import { BrowserModule } from '@angular/platform-browser';
-import {NgxPaginationModule} from 'ngx-pagination'; // <-- import the module
+import {NgxPaginationModule} from 'ngx-pagination';
 
 
 
